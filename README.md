@@ -1,9 +1,5 @@
 
-Walkthrough of `find_Beta.R`
-
-======================
-
-  
+# Walkthrough of `find_Beta.R`
 
 ## Table of Contents
 
